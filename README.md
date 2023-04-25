@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hrwbpqwb2lape7rb/branch/main?svg=true)](https://ci.appveyor.com/project/Gena800/netology-postmanecho/branch/main)
